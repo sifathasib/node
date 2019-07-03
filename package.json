@@ -5,7 +5,7 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node script" 
+    "start": "node script"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/sifathasib/node/issues"
   },
-  "homepage": "https://github.com/sifathasib/node#readme"
+  "homepage": "https://github.com/sifathasib/node#readme",
+  "dependencies": {}
 }
